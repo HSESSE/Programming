@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo", "Demo\Demo.csproj", "{FF6530FC-81CC-47C8-A142-30FBDEB5CBAC}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task01", "Task01\Task01.csproj", "{806A74CF-DB97-417B-809F-B8117B723ACC}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task02", "Task02\Task02.csproj", "{529FD599-10C8-4F91-A2BD-A3CB56618C35}"
@@ -20,10 +18,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{FF6530FC-81CC-47C8-A142-30FBDEB5CBAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{FF6530FC-81CC-47C8-A142-30FBDEB5CBAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{FF6530FC-81CC-47C8-A142-30FBDEB5CBAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{FF6530FC-81CC-47C8-A142-30FBDEB5CBAC}.Release|Any CPU.Build.0 = Release|Any CPU
 		{806A74CF-DB97-417B-809F-B8117B723ACC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{806A74CF-DB97-417B-809F-B8117B723ACC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{806A74CF-DB97-417B-809F-B8117B723ACC}.Release|Any CPU.ActiveCfg = Release|Any CPU
