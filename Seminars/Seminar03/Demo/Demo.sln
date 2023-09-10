@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task02", "Task02\Task02.csproj", "{342D7FFC-741B-441F-A3A1-9EDBBBFEB1F3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task03", "Task03\Task03.csproj", "{06310197-E410-42AD-90D0-64E052AD85DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task01", "Task01\Task01.csproj", "{A8BBF86C-173C-430D-AA63-BED224398229}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{342D7FFC-741B-441F-A3A1-9EDBBBFEB1F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{342D7FFC-741B-441F-A3A1-9EDBBBFEB1F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{342D7FFC-741B-441F-A3A1-9EDBBBFEB1F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{342D7FFC-741B-441F-A3A1-9EDBBBFEB1F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06310197-E410-42AD-90D0-64E052AD85DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06310197-E410-42AD-90D0-64E052AD85DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06310197-E410-42AD-90D0-64E052AD85DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06310197-E410-42AD-90D0-64E052AD85DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8BBF86C-173C-430D-AA63-BED224398229}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8BBF86C-173C-430D-AA63-BED224398229}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8BBF86C-173C-430D-AA63-BED224398229}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8BBF86C-173C-430D-AA63-BED224398229}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB2B2DD4-1BEB-4FD9-BB2E-F4CE9AD30EB3}
+	EndGlobalSection
+EndGlobal
