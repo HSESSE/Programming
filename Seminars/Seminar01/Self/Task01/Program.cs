@@ -5,7 +5,7 @@ class Program {
         string name = Console.ReadLine();
         string fathersName = Console.ReadLine();
         Console.WriteLine("Фамилия: " + surname);
-        Console.WriteLine("Имя: " + surname);
+        Console.WriteLine("Имя: " + name);
         Console.WriteLine("Отчество: " + fathersName);
     }
 }
